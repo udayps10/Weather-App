@@ -43,6 +43,12 @@ The API returns weather data which is displayed on the page using JavaScript.
 3. Enter a city name to see the weather
 
 ---
+## 🤝 Contributions
+
+Contributions, issues, and feature requests are welcome.
+
+Feel free to fork this repository and submit a pull request. 
+--
 
 ## 👨‍💻 Author
 
